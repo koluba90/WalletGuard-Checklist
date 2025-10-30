@@ -1,0 +1,12 @@
+[
+  { "task": "Backup your seed phrase securely (offline)" },
+  { "task": "Enable two-factor authentication (2FA)" },
+  { "task": "Never share private keys with anyone" },
+  { "task": "Use hardware wallets for long-term storage" },
+  { "task": "Verify wallet URLs before entering credentials" },
+  { "task": "Update your wallet software regularly" },
+  { "task": "Avoid using public Wi-Fi for transactions" },
+  { "task": "Store backup phrases in multiple secure locations" },
+  { "task": "Double-check addresses before sending funds" },
+  { "task": "Regularly review your security setup" }
+]
